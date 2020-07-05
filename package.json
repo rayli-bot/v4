@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "rayli-bot.github.io",
+  "description": "Ray Lee's Personal Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Ray Lee <ray.li.cmd@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/rayli-bot/rayli-bit.github.io"
   },
   "keywords": [
     "gatsby"

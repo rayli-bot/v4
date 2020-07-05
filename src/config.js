@@ -1,38 +1,26 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Ray Lee | Crypto. Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Ray Lee is a crypto. engineer based in Hong Kong who specializes in building blockchain applications, Real-time Progressive Web App (PWA), Mobile App and Cryptographic Protocol.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Ray Lee, Ray, Lee, rayli-bot, blockchain engineer, crypto engineer, web developer, javascript, mobile app',
+  siteUrl: 'https://rayli-bit.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Ray Lee',
+  location: 'Hong Kong',
+  email: 'ray.li.cmd@gmail.com',
+  github: 'https://github.com/rayli-bot',
+  twitterHandle: '@rayli_bot',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/rayli-bot',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.linkedin.com/in/ray-lee-6bb72213b',
     },
   ],
 
@@ -58,7 +46,7 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
+    green: '#f7d754',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },

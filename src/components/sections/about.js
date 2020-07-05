@@ -63,7 +63,7 @@ const StyledPic = styled.div`
 const StyledAvatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1);
+  filter: contrast(1);
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;
@@ -72,11 +72,10 @@ const StyledAvatarLink = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: transparent;
   margin-left: -20px;
   &:hover,
   &:focus {
-    background: transparent;
     &:after {
       top: 15px;
       left: 15px;
@@ -101,7 +100,6 @@ const StyledAvatarLink = styled.a`
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: ${colors.navy};
     mix-blend-mode: screen;
   }
   &:after {
